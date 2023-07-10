@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Material Card View Example</string>
+    <string name="title"> Mi Card View Genial</string>
+    <string name="secondary_text">Un subtitulo para tu app </string>
+    <string name="supporting_text">
+        Las frutas son alimentos deliciosos y nutritivos. Son fuente de vitaminas, minerales y fibra.
+        Manzanas, plátanos, fresas y naranjas son algunas frutas populares y sabrosas.
+    </string>
+    <string name="action_1"> Anterior </string>
+    <string name="action_2"> Siguiente </string>
+    <string name="title_app">Mi título de la app</string>
+    <string name="content_description_media"> La descrićión del contenido múltimedia</string>
+</resources>
